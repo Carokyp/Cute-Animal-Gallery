@@ -25,5 +25,5 @@ Whether you're having a rough day or just love adorable creatures, this app is h
 ## 📂 How to Run the Project
 
 1. **Clone the repo**
-2.  ```bash
+   ```bash
 https://github.com/Carokyp/Cute-Animal-Gallery.git
