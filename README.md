@@ -10,6 +10,8 @@ Whether you're having a rough day or just love adorable creatures, this app is h
 
 ## ✨ Features
 
+- 📸 Randomized or curated images of cute animals
+- 🐾 Responsive and mobile-friendly design
 - 🎨 Clean and simple interface
 - 🔁 Refresh for more cuteness!
 
@@ -19,6 +21,7 @@ Whether you're having a rough day or just love adorable creatures, this app is h
 
 - HTML
 - CSS
+- JavaScript
 
 ---
 
