@@ -2,7 +2,7 @@
 
 # 🐾 Cute Animal Gallery
 
-Welcome to **Cute Animal Gallery** a fun, lightweight project that displays a collection of the cutest animals on the internet! 🐶🐱🦊
+Welcome to **Cute Animal Gallery** a fun, lightweight project that displays a collection of the cutest animals on the internet! 🐶🐱
 
 Whether you're having a rough day or just love adorable creatures, this app is here to brighten your mood.
 
